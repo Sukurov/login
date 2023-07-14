@@ -1,0 +1,1033 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: black;
+}
+.div-1{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+}
+.div-2{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 105px;
+	top: 0;
+}
+.div-3{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 210px;
+	top: 0;
+}
+.div-4{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 315px;
+	top: 0;
+	transition: 1.5s;
+}
+.div-5{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 420px;
+	top: 0;
+}
+.div-6{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 525px;
+	top: 0;
+}
+.div-7{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 630px;
+	top: 0;
+}
+.div-8{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0px 735px;
+	top: 0;
+}
+.div-9{
+	transition: 1.5s;
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 840px;
+	top: 0;
+}
+.div-10{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 945px;
+	top: 0;
+}
+.div-11{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 1050px;
+	top: 0;
+	transition: 1.5s;
+}
+.div-12{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0px 1155px;
+	top: 0;
+}
+.div-14{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 1260px;
+	top: 0;
+}
+.div-15{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	top: 105px;
+}
+.div-16{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 105px;
+	top: 105px;
+}
+.div-17{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 210px;
+	top: 105px;
+}
+.div-18{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 315px;
+	top: 105px;
+}
+.div-19{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 420px;
+	top: 105px;
+}
+.div-20{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0px 525px;
+	top: 105px;
+}
+.div-21{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0px 630px;
+	top: 105px;
+}
+.div-22{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 735px;
+	top: 105px;
+}
+.div-23{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 840px;
+	top: 105px;
+	transition: 1.5s;
+}
+.div-24{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 945px;
+	top: 105px;
+}
+.div-25{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	position: absolute;
+	transition: 1.5s;
+	margin: 0px 1050px;
+	top: 105px;
+}
+.div-26{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0px 1155px;
+	top: 105px;
+}
+.div-27{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	position: absolute;
+	margin: 0px 1260px;
+	top: 105px;
+}
+.div-29{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+}
+.div-30{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 105px;
+}
+.div-31{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 210px;
+}
+.div-32{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 315px;
+}
+.div-33{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 210px;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0 420px;
+}
+.div-34{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 525px;
+}
+.div-35{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 630px;
+}
+.div-36{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	transition: 1.5s;
+	margin: 0 735px;
+}
+.div-37{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 840px;
+	transition: 1.5s;
+}
+.div-38{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	transition: 1.5s;
+	top: 210px;
+	position: absolute;
+	margin: 0 945px;
+}
+.div-39{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 1050px;
+}
+.div-40{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 1050px;
+}
+.div-41{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 1155px;
+}
+.div-42{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 210px;
+	position: absolute;
+	margin: 0 1260px;
+}
+.div-43{
+	width: 100px;
+	height: 100px;
+	background:#23242a;
+	z-index: -1;
+	transition: 1.5s;
+	top: 315px;
+	position: absolute;
+	margin: 0 0px;
+}
+.div-44{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 105px;
+}
+
+.div-45{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 210px;
+}
+.div-46{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 315px;
+	transition: 1.5s;
+}
+.div-47{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 420px;
+}
+.div-48{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 525px;
+}
+.div-49{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 630px;
+}
+
+.div-50{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 315px;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0 735px;
+}
+
+.div-51{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 840px;
+	transition: 1.5s;
+}
+
+.div-52{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 945px;
+}
+
+.div-53{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 1050px;
+	transition: 1.5s;
+}
+
+.div-54{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 1155px;
+}
+
+.div-55{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 315px;
+	position: absolute;
+	margin: 0 1260px;
+	transition: 1.5s;
+}
+.div-56{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 0px;
+	transition: 1.5s;
+}
+.div-57{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0 105px;
+}
+.div-58{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	transition: 1.5s;
+	top: 420px;
+	position: absolute;
+	margin: 0 210px;
+}
+.div-59{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 315px;
+}
+.div-60{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 420px;
+}
+.div-61{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 525px;
+	transition: 1.5s;
+}
+.div-62{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0 630px;
+}
+.div-63{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 735px;
+	transition: 1.5s;
+}
+.div-64{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 840px;
+}
+.div-65{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 945px;
+	transition: 1.5s;
+}
+.div-67{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	transition: 1.5s;
+	margin: 0 1050px;
+}
+.div-68{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 1155px;
+}
+.div-69{
+	width: 100px;
+	height: 100px;
+	transition: 1.5s;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 1260px;
+}
+.div-70{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 420px;
+	position: absolute;
+	margin: 0 105px;
+}
+.div-71{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	position: absolute;
+	margin: 0 0px;
+	transition: 1.5s;
+}
+.div-72{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	position: absolute;
+	margin: 0 105px;
+}
+.div-73{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0 210px;
+}
+.div-74{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 525px;
+	position: absolute;
+	margin: 0 315px;
+}
+.div-75{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	position: absolute;
+	margin: 0 420px;
+}
+.div-76{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	transition: 1.5s;
+	top: 525px;
+	position: absolute;
+	margin: 0 525px;
+}
+.div-77{
+	width: 100px;
+	transition: 1.5s;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	position: absolute;
+	margin: 0 630px;
+}
+.div-78{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0 735px;
+}
+.div-79{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	transition: 1.5s;
+	position: absolute;
+	margin: 0 840px;
+}
+.div-81{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	transition: 1.5s;
+	z-index: -1;
+	top: 525px;
+	position: absolute;
+	margin: 0 945px;
+}
+.div-82{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	position: absolute;
+	margin: 0 1050px;
+	transition: 1.5s;
+}
+.div-83{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	position: absolute;
+	margin: 0 1155px;
+	transition: 1.5s;
+}
+.div-84{
+	width: 100px;
+	height: 100px;
+	background: #23242a;
+	z-index: -1;
+	top: 525px;
+	position: absolute;
+	z-index: -1;
+	margin: 0 1260px;
+	transition: 1.5s;
+}
+.div-86{
+	transition: 1.5s;
+	z-index: -1;
+	position: absolute;
+	top: 635px;
+	width: 100px;
+	height: 20px;
+	background: #23242a;
+}
+.div-87{
+	position: absolute;
+	transition: 1.5s;
+	top: 635px;
+	width: 100px;
+	z-index: -1;
+	height: 20px;
+	background: #23242a;
+	margin: 0px 105px;
+}
+.div-88{
+	position: absolute;
+	top: 635px;
+	width: 100px;
+	z-index: -1;
+	height: 20px;
+	background: #23242a;
+	margin: 0px 210px;
+	transition: 1.5s;
+}
+.div-89{
+	position: absolute;
+	top: 635px;
+	z-index: -1;
+	width: 100px;
+	transition: 1.5s;
+	height: 20px;
+	background: #23242a;
+	margin: 0px 315px;
+}
+.div-90{
+	position: absolute;
+	top: 635px;
+	z-index: -1;
+	width: 100px;
+	height: 20px;
+	background: #23242a;
+	transition: 1.5s;
+	margin: 0px 420px;
+}
+.div-91{
+	position: absolute;
+	top: 635px;
+	z-index: -1;
+	width: 100px;
+	height: 20px;
+	background: #23242a;
+	transition: 1.5s;
+	margin: 0px 525px;
+}
+.div-92{
+	position: absolute;
+	top: 635px;
+	z-index: -1;
+	width: 100px;
+	height: 20px;
+	background: #23242a;
+	transition: 1.5s;
+	margin: 0px 630px;
+}
+.div-93{
+	position: absolute;
+	top: 635px;
+	z-index: -1;
+	width: 100px;
+	height: 20px;
+	background: #23242a;
+	transition: 1.5s;
+	margin: 0px 735px;
+}
+.div-94{
+	position: absolute;
+	top: 635px;
+	z-index: -1;
+	width: 100px;
+	height: 20px;
+	background: #23242a;
+	transition: 1.5s;
+	margin: 0px 840px;
+}
+.div-95{
+	position: absolute;
+	top: 635px;
+	transition: 1.5s;
+	width: 100px;
+	z-index: -1;
+	height: 20px;
+	background: #23242a;
+	margin: 0px 945px;
+}
+.div-96{
+	z-index: -1;
+	position: absolute;
+	top: 635px;
+	transition: 1.5s;
+	width: 100px;
+	height: 20px;
+	background: #23242a;
+	margin: 0px 1050px;
+}
+.div-97{
+	position: absolute;
+	top: 635px;
+	transition: 1.5s;
+	width: 100px;
+	height: 20px;
+	background: #23242a;
+	z-index: -1;
+	margin: 0px 1155px;
+}
+.div-98{
+	position: absolute;
+	top: 635px;
+	transition: 1.5s;
+	width: 100px;
+	height: 20px;
+	background: #23242a;
+	margin: 0px 1260px;
+	z-index: -1;
+}
+div:hover{
+	background: #0f0;
+	transition: 0.1s;
+}
+
+.div1:hover{
+	background: #222;
+}
+
+
+.div1{
+	width: 400px;
+	height: 380px;
+	background: #222;
+	position: absolute;
+	margin: 120px 450px;
+    border-radius: 5px;
+}
+.div1 span{
+	color: #0f0;
+	font-size: 2rem;
+	font-family: cursive;
+	margin: 20px 140px;
+	position: absolute;
+}
+.div1 .inp1{
+	position: absolute;
+	margin: 100px 80px;
+	height: 40px;
+	width: 240px;
+	border: none;
+	border-radius: 5px;
+}
+.div1 .inp2{
+	position: absolute;
+	margin: 170px 80px;
+	width: 240px;
+	border: none;
+	border-radius: 5px;
+	height: 40px;
+}
+.div1 button{
+	position: absolute;
+	margin: 300px 140px;
+	width: 100px;
+	height: 40px;
+	border-radius: 10px;
+	border: none;
+	cursor: pointer;
+	font-family: cursive;
+}
+.div1 .unuttum{
+	position: absolute;
+	margin: 250px 20px;
+	text-decoration: none;
+	color: white;
+}
+.div1 .qeydiyyat{
+	position: absolute;
+	margin: 250px 300px;
+	text-decoration: none;
+	color: #0f0;
+}
+button:hover{
+	color: #0f0;
+	background: #0f0;
+	color: white;
+}
+.div1 .unuttum:hover{
+	text-decoration: revert;
+}
+.div1 .qeydiyyat:hover{
+	text-decoration: revert;
+}
+div0{
+	z-index: -2;
+	height: 60vh;
+	width: 99%;
+	background: linear-gradient(#000, #0f0, #000);
+	animation: animate 5s linear infinite;
+	position: absolute;
+}
+keyframes animate
+{
+   0%{
+   	transform: translateY(-100%);
+   }
+   100%{
+   	transform: translateY(100%);
+   }
+}
